@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">926392109021-434mcrd3t9habim8dniq5lqr4uf56iqi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">926392109021</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnDNsaS6Pg4HMrj4-K5gqf6OFoy9X8oDY</string>
+    <string name="google_app_id" translatable="false">1:926392109021:android:816fba8a9501d0a2cc9834</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnDNsaS6Pg4HMrj4-K5gqf6OFoy9X8oDY</string>
+    <string name="google_storage_bucket" translatable="false">digimart-83083.appspot.com</string>
+    <string name="project_id" translatable="false">digimart-83083</string>
+</resources>
